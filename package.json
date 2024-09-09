@@ -16,9 +16,8 @@
     "rebuild": "electron-rebuild -f -w better-sqlite3",
     "package": "electron-builder build --publish never "
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["rsbuild","electron", "template", "react"],
+  "author": "Moki <2893096286@qq.com> (http://moonquakes.online)",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
